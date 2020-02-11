@@ -1,0 +1,2 @@
+# EdgarExcelDownloader
+Downloads EDGAR
